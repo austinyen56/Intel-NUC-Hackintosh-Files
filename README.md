@@ -1,9 +1,3 @@
----
-noteId: "a8795530cbc211eb8f548d905f1942cd"
-tags: []
-
----
-
 # Intel NUC Hackintosh Files
 These are the required files needed for Intel NUC 7i7BNH for hackintosh-ing
 
