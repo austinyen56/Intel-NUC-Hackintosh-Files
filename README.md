@@ -11,3 +11,9 @@ These are the required files needed for Intel NUC 7i7BNH for hackintosh-ing
 Please watch this video for in depth instructions
 * https://www.youtube.com/watch?v=a8IjnHFjwXI&ab_channel=Austin56
 
+## Update (June 2021) (Ignore if you are ONLY booting MacOS)
+* Updated config file for multi- booting. The config file is under ```Config/configNEW.plist```. Be sure to rename it back to ```config.plist``` when using it.
+
+* What's new in the new config file? The new config file takes out the countdown timer and removes unecessary entries which is important for multi-booting
+
+* Tutorial video for multi-booting: TBA
