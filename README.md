@@ -16,4 +16,4 @@ Please watch this video for in depth instructions
 
 * What's new in the new config file? The new config file takes out the countdown timer and removes unecessary entries which is important for multi-booting
 
-* Tutorial video for multi-booting: TBA
+* Tutorial video for multi-booting: https://www.youtube.com/watch?v=JAhTKm15u9s&t&ab_channel=Austin56
